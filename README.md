@@ -7,7 +7,7 @@ Lee, [In So Kweon](http://rcv.kaist.ac.kr/), [Junmo Kim](http://siit.kaist.ac.kr
 > <br />CVPR Workshop on ‘<a href="https://sites.google.com/view/2nd-mmfm-workshop/" target="_blank">What is Next in Multimodal Foundation Models?</a>’ (MMFM), 2024
 
 ## News 
-- **[June 14]** Currently, the codes are under review before being made public.
+- **[June 14]** Currently, the codes are under review before being made public (Expected date: Early July).
 <br />
 
 ## Abstract
@@ -44,5 +44,11 @@ Overall trends of pre-trained and fine-tuned CLIP models between 12 compositiona
 ## BibTeX
 If you find this repository useful, please consider citing our paper with the following bibtex:
 ```bibtex
-
+@article{oh2024exploring,
+      title={Exploring the Spectrum of Visio-Linguistic Compositionality and Recognition}, 
+      author={Oh, Youngtaek and Ahn, Pyunghwan and Kim, Jinhyung and Song, Gwangmo and Lee, Soonyoung and Kweon, In So and Kim, Junmo},
+      journal = {arXiv preprint},
+      year={2024},
+      url={[https://arxiv.org/abs/2406.07522](https://arxiv.org/abs/2406.09388)}
+}
 ```
