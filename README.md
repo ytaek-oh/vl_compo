@@ -11,7 +11,7 @@ Lee, [In So Kweon](http://rcv.kaist.ac.kr/), [Junmo Kim](http://siit.kaist.ac.kr
 <br />
 
 ## Abstract
-**TL;DR We comprehensively curate VLMs and benchmarks for comositionality and recognition evaluation!**
+**TL;DR We comprehensively curate VLMs and benchmarks for compositionality and recognition evaluation!**
 <details><summary>Click to expand</summary>
 <p>Vision and language models (VLMs) such as CLIP have showcased remarkable
 zero-shot recognition abilities yet face challenges in visio-linguistic
