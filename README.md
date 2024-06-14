@@ -1,7 +1,7 @@
 # <div align="center">Exploring the Spectrum of Visio-Linguistic Compositionality and Recognition<div> 
 
 This is the repository for the paper:
-> <a href="https://github.com/ytaek-oh/vl_compo"><b>Exploring the Spectrum of Visio-Linguistic Compositionality and Recognition</b></a><br />
+> <a href="https://arxiv.org/abs/2406.09388"><b>Exploring the Spectrum of Visio-Linguistic Compositionality and Recognition</b></a><br />
 > [Youngtaek Oh](https://ytaek-oh.github.io), Pyunghwan Ahn, Jinhyung Kim, Gwangmo Song, Soonyoung
 Lee, [In So Kweon](http://rcv.kaist.ac.kr/), [Junmo Kim](http://siit.kaist.ac.kr/)
 > <br />CVPR Workshop on ‘<a href="https://sites.google.com/view/2nd-mmfm-workshop/" target="_blank">What is Next in Multimodal Foundation Models?</a>’ (MMFM), 2024
