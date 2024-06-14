@@ -49,6 +49,6 @@ If you find this repository useful, please consider citing our paper with the fo
       author={Oh, Youngtaek and Ahn, Pyunghwan and Kim, Jinhyung and Song, Gwangmo and Lee, Soonyoung and Kweon, In So and Kim, Junmo},
       journal = {arXiv preprint},
       year={2024},
-      url={[https://arxiv.org/abs/2406.07522](https://arxiv.org/abs/2406.09388)}
+      url={https://arxiv.org/abs/2406.09388}
 }
 ```
