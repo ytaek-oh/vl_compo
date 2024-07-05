@@ -37,7 +37,7 @@ formulation of benchmarks for compositionality.</p>
 <b>
 Overall trends of pre-trained and fine-tuned CLIP models between 12 compositionality and 21 zero-shot classification tasks.
 </b> <br />
-  <a href="./results.csv">[results.csv]</a>
+  <a href="./results.csv">[results.csv]</a> | <a href="./individual_results.csv">[individual_results.csv]</a>
 </p>
 
 
